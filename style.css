@@ -550,9 +550,8 @@ button:hover {
     padding: 20px; 
 }
 
-.contact-container h1 {
+#contact-title{
     margin-left: 10px;
-    color: #ffffff;
 }
 
 .contact-form {
